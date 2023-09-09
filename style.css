@@ -27,7 +27,7 @@ body {
 }
 
 .user-name h2 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 800;
     padding-bottom: 2rem;
 }
@@ -57,4 +57,10 @@ body {
 
 .curDay {
     
+}
+
+.git-link,
+.main-git_link {
+    text-decoration: none;
+    color: #fff;
 }
